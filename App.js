@@ -7,6 +7,8 @@ import Profilescreen from "./src/screens/Profilescreen";
 import Articles from "./src/screens/Articles";
 import Register from "./src/screens/Register";
 import Form from "./src/screens/logintest";
+import TabNavigation from "./src/screens/TabNavigation";
+
 
 //import Onboarding from "./src/screen/Onboarding"
 const App: () => React$Node = () => {

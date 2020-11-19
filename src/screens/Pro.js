@@ -1,5 +1,5 @@
 import React from "react";
-import { ImageBackground, StyleSheet, Text, View, Image, Button, TouchableOpacity } from "react-native";
+import { Icon,ImageBackground, StyleSheet, Text, View, Image, Button, TouchableOpacity } from "react-native";
 
 const getPro = require("../../assets/imgs/bg.png");
 const Invision = require("../../assets/imgs/invision-white-slim.png");
@@ -39,6 +39,9 @@ export default class Pro extends React.Component {
               <Image source={android} style={styles.contenContainer1}  ></Image>
             </View>
           </View>
+
+
+          
 
           <View style={styles.container5}>
             <View style={{
