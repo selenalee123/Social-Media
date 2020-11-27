@@ -1,23 +1,31 @@
 import React from "react";
-import { Icon,ImageBackground, StyleSheet, Text, View, Image, Button, TouchableOpacity } from "react-native";
-
+import { Icon, ImageBackground, StyleSheet, Text, View, Image, Button, TouchableOpacity } from "react-native";
+import { Actions } from 'react-native-router-flux';
 const getPro = require("../../assets/imgs/bg.png");
 const Invision = require("../../assets/imgs/invision-white-slim.png");
 const NowLogo = require("../../assets/imgs/now-logo.png");
 const CreativeTim = require("../../assets/imgs/creative-tim-white-slim2.png");
 const ios = require("../../assets/imgs/ios.png");
 const android = require("../../assets/imgs/android.png");
+import Articles from './Articles';
+
+const gotoArticlesScreen = () => {
+  Actions.push('Articles')
+}
+
 
 export default class Pro extends React.Component {
   constructor(props) {
     super(props)
   }
 
-  render() {
-    return ( 
-      
+
+
+ render() {
+        return (
+
       <View style={styles.container}>
-        
+
         <ImageBackground source={getPro} style={styles.image}>
           <View style={styles.container2}>
             <Text style={styles.text1}>Code by</Text>
@@ -40,20 +48,12 @@ export default class Pro extends React.Component {
             </View>
           </View>
 
-
-          
-
           <View style={styles.container5}>
-            <View style={{
-              width: 300, height: 40,
-              backgroundColor: 'orange',
-              justifyContent: 'center',
-              alignItems: 'center',
-              borderRadius: 50, marginRight: 30,
-              marginRight: 20,
-            }} >
+            <TouchableOpacity
+              onPress={gotoArticlesScreen}
+              style={styles.button}>
               <Text style={styles.text2}>Get Start </Text>
-            </View>
+            </TouchableOpacity>
           </View>
 
 
@@ -151,7 +151,18 @@ const styles = StyleSheet.create({
     flex: 0.3,
     resizeMode: "center",
     width: 91, height: 28
+  },
+
+  button: {
+    width: 300, height: 40,
+    backgroundColor: 'orange',
+    justifyContent: 'center',
+    alignItems: 'center',
+    borderRadius: 50, marginRight: 30,
+    marginRight: 20,
   }
+
+
 })
 
 
@@ -251,8 +262,3 @@ const styles = StyleSheet.create({
 
 
 
-
-
-
-
-       

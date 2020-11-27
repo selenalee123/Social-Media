@@ -58,6 +58,8 @@ com/facebook/imagepipeline/R.java
  com.facebook.imagepipeline.R$string
  com.facebook.imagepipeline.R$style
  com.facebook.imagepipeline.R$styleable
+expo/modules/haptics/R.java
+ expo.modules.haptics.R
 androidx/appcompat/resources/R.java
  androidx.appcompat.resources.R
  androidx.appcompat.resources.R$attr
@@ -229,21 +231,8 @@ com/bumptech/glide/R.java
  com.bumptech.glide.R$styleable
 com/bumptech/glide/gifdecoder/R.java
  com.bumptech.glide.gifdecoder.R
-expo/modules/updates/R.java
- expo.modules.updates.R
- expo.modules.updates.R$anim
- expo.modules.updates.R$attr
- expo.modules.updates.R$bool
- expo.modules.updates.R$color
- expo.modules.updates.R$dimen
- expo.modules.updates.R$drawable
- expo.modules.updates.R$id
- expo.modules.updates.R$integer
- expo.modules.updates.R$layout
- expo.modules.updates.R$string
- expo.modules.updates.R$style
- expo.modules.updates.R$styleable
- expo.modules.updates.R$xml
+com/firstappv2/generated/BasePackageList.java
+ com.firstappv2.generated.BasePackageList
 com/facebook/fresco/memorytypes/nativememory/R.java
  com.facebook.fresco.memorytypes.nativememory.R
  com.facebook.fresco.memorytypes.nativememory.R$attr
@@ -488,6 +477,21 @@ com/facebook/fresco/stetho/R.java
  com.facebook.fresco.stetho.R$string
  com.facebook.fresco.stetho.R$style
  com.facebook.fresco.stetho.R$styleable
+com/th3rdwave/safeareacontext/R.java
+ com.th3rdwave.safeareacontext.R
+ com.th3rdwave.safeareacontext.R$anim
+ com.th3rdwave.safeareacontext.R$attr
+ com.th3rdwave.safeareacontext.R$bool
+ com.th3rdwave.safeareacontext.R$color
+ com.th3rdwave.safeareacontext.R$dimen
+ com.th3rdwave.safeareacontext.R$drawable
+ com.th3rdwave.safeareacontext.R$id
+ com.th3rdwave.safeareacontext.R$integer
+ com.th3rdwave.safeareacontext.R$layout
+ com.th3rdwave.safeareacontext.R$string
+ com.th3rdwave.safeareacontext.R$style
+ com.th3rdwave.safeareacontext.R$styleable
+ com.th3rdwave.safeareacontext.R$xml
 com/facebook/nativefilters/R.java
  com.facebook.nativefilters.R
  com.facebook.nativefilters.R$attr
@@ -500,6 +504,21 @@ com/facebook/nativefilters/R.java
  com.facebook.nativefilters.R$string
  com.facebook.nativefilters.R$style
  com.facebook.nativefilters.R$styleable
+org/reactnative/maskedview/R.java
+ org.reactnative.maskedview.R
+ org.reactnative.maskedview.R$anim
+ org.reactnative.maskedview.R$attr
+ org.reactnative.maskedview.R$bool
+ org.reactnative.maskedview.R$color
+ org.reactnative.maskedview.R$dimen
+ org.reactnative.maskedview.R$drawable
+ org.reactnative.maskedview.R$id
+ org.reactnative.maskedview.R$integer
+ org.reactnative.maskedview.R$layout
+ org.reactnative.maskedview.R$string
+ org.reactnative.maskedview.R$style
+ org.reactnative.maskedview.R$styleable
+ org.reactnative.maskedview.R$xml
 org/unimodules/interfaces/constants/R.java
  org.unimodules.interfaces.constants.R
 androidx/activity/R.java
@@ -744,8 +763,10 @@ expo/modules/location/R.java
  expo.modules.location.R$string
  expo.modules.location.R$style
  expo.modules.location.R$styleable
-expo/modules/haptics/R.java
- expo.modules.haptics.R
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/BV/LinearGradient/R.java
+ com.BV.LinearGradient.R
 org/webkit/androidjsc/R.java
  org.webkit.androidjsc.R
 androidx/slidingpanelayout/R.java
@@ -803,6 +824,13 @@ com/firstappv2/BuildConfig.java
  com.firstappv2.BuildConfig
 com/google/android/gms/location/R.java
  com.google.android.gms.location.R
+com/firstappv2/MainApplication.java
+ com.firstappv2.MainApplication
+ com.firstappv2.MainApplication$1
+com/google/android/gms/tasks/R.java
+ com.google.android.gms.tasks.R
+org/unimodules/interfaces/facedetector/R.java
+ org.unimodules.interfaces.facedetector.R
 androidx/room/R.java
  androidx.room.R
  androidx.room.R$attr
@@ -815,16 +843,18 @@ androidx/room/R.java
  androidx.room.R$string
  androidx.room.R$style
  androidx.room.R$styleable
-com/google/android/gms/tasks/R.java
- com.google.android.gms.tasks.R
-org/unimodules/interfaces/facedetector/R.java
- org.unimodules.interfaces.facedetector.R
-com/firstappv2/generated/BasePackageList.java
- com.firstappv2.generated.BasePackageList
-com/BV/LinearGradient/R.java
- com.BV.LinearGradient.R
-com/firstappv2/MainApplication.java
- com.firstappv2.MainApplication
- com.firstappv2.MainApplication$1
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
+expo/modules/updates/R.java
+ expo.modules.updates.R
+ expo.modules.updates.R$anim
+ expo.modules.updates.R$attr
+ expo.modules.updates.R$bool
+ expo.modules.updates.R$color
+ expo.modules.updates.R$dimen
+ expo.modules.updates.R$drawable
+ expo.modules.updates.R$id
+ expo.modules.updates.R$integer
+ expo.modules.updates.R$layout
+ expo.modules.updates.R$string
+ expo.modules.updates.R$style
+ expo.modules.updates.R$styleable
+ expo.modules.updates.R$xml

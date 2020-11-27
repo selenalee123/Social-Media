@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\React Native\\Project\\Social Media\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
+            "outputFile": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\5966c18e8691c1be81af1d14ef4af7d6\\jetified-play-services-basement-16.0.1\\res\\values-mk\\values.xml",

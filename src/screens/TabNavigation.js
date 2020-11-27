@@ -1,7 +1,15 @@
 import React, { Component } from 'react';
-import { View, Text, TouchableOpacity } from 'react-native';
+import { View, Text, TouchableOpacity, Linking } from 'react-native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import { Actions } from 'react-native-router-flux';
+import { NavigationContainer } from '@react-navigation/native';
+import Pro from "./Pro";
+import Profile from "./Profilescreen";
+import Profilescreen from './Profilescreen';
+import Articles from './Articles';
+import Menu from './Menu'
+
+
 
 const ITEMS = [
   {
@@ -10,14 +18,14 @@ const ITEMS = [
     title: 'Home',
   },
   {
-    icName: 'md-person',
-    icNameActive: 'ios-reader',
-    title: 'Profile'
+    icName: 'ios-person',
+    icNameActive: 'ios-person',
+    title: 'Posts'
   },
   {
     icName: 'ios-cart',
-    icNameActive: 'ios-notifications-sharp',
-    title: 'cart'
+    icNameActive: 'ios-cart',
+    title: "Cart"
   },
   {
     icName: 'ios-menu',
@@ -25,80 +33,117 @@ const ITEMS = [
     title: 'Menu'
   },
 ]
-export default class
-  extends Component {
+
+const supportedURL = "https://google.com";
+const emailSupport = 'mailto:kim.trainee@gmail.com?subject=Kim Application Support&body=userId: 123456'
+const telSupport = 'tel:0938475625'
+const smsSupport = 'sms:+123456789?body=My Application support'
+
+class TabNavigation extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      tabIndex: 3
+      tabIndex: 0
     };
   }
-  onItemPress = (index) => {
-    this.setState({ tabIndex: index })
+
+  componentDidMount() {
+    
   }
+
+  onItemPress = (index) => {
+    this.setState({tabIndex: index})
+  }
+
   renderItems = () => {
     return ITEMS.map((item, index) => {
       return (
-      
         <TouchableOpacity
-          
           key={index}
-          onPress={() => console.log('puff')}
-          style={{
-            flex: 1, marginTop: 700,
-            height: 60, justifyContent:
-              "center", alignItems: "center",
-            flexDirection: "column",
-                      }}>
-          <Ionicons name={item.icName} size={24} color="black"></Ionicons>
-          <Text> {item.title}</Text>
+          style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}
+          onPress={() => this.onItemPress(index)} //() => this.onItemPress(index)
+        >
+          <Ionicons name={this.state.tabIndex === index ? item.icNameActive : item.icName} size={24} color={this.state.tabIndex === index ? 'blue' : 'black'}/>
+          <Text style={{color: this.state.tabIndex === index ? 'blue' : 'black'}}>{item.title}</Text>
         </TouchableOpacity>
-       
-
       )
     })
   }
 
   render() {
     return (
-      <View>
-
-        {this.state.tabIndex === 0 && <HomeScreen />}
-        {this.state.tabIndex === 0 && <Profile />}
-        {this.state.tabIndex === 0 && <Cart />}
-        {this.state.tabIndex === 0 && <Menu />}
-
-        <View style={{
-          flex: 1, borderWidth: 1, borderColor:
-            "black", height: 50, flexDirection: "row"
-        }}>
+      <View style={{flex: 1}}>
+        <View style={{flex: 1,backgroundColor:"white",borderColor:"grey"}}>
+          {this.state.tabIndex === 0 && <Pro />}
+          {this.state.tabIndex === 1 && <Profilescreen />}
+          {this.state.tabIndex === 2 && <Articles />}
+          {this.state.tabIndex === 3 && <Menu/>}
+        </View>
+        <View style={{height: 70, flexDirection: 'row'}}>
           {this.renderItems()}
         </View>
       </View>
-
     );
   }
 }
 
+export default TabNavigation;
 
-const Home = () => {
+const HomeScreen = () => {
+  const gotoProScreen = () => {
+    Actions.push('Pro')
+  }
+
+  const onpenGG = () => {
+    Linking.openURL(supportedURL)
+  }
+  const openEmail = () => {
+    Linking.openURL(emailSupport)
+  }
+  const openTel = () => {
+    Linking.openURL(telSupport)
+  }
+  const openSms = () => {
+    Linking.openURL(smsSupport)
+  }
+
   return (
-    <View style={{ flex: 1, backgroundColor: "green" }}></View>)
-
+    <View style={{flex: 1, backgroundColor: 'green', justifyContent: 'center', alignItems: 'center'}}>
+      <Text>Home Screen</Text>
+      <TouchableOpacity onPress={gotoProScreen}>
+        <Text>Go to List Student screen</Text>
+      </TouchableOpacity>
+      <TouchableOpacity onPress={onpenGG}>
+        <Text>Open GG</Text>
+      </TouchableOpacity>
+      <TouchableOpacity onPress={openEmail}>
+        <Text>Open Email</Text>
+      </TouchableOpacity>
+      <TouchableOpacity onPress={openTel}>
+        <Text>Open tel</Text>
+      </TouchableOpacity>
+      <TouchableOpacity onPress={openSms}>
+        <Text>Open sms</Text>
+      </TouchableOpacity>
+    </View>
+  )
 }
 
-const Profile = () => {
+const PostsScreen = () => {
   return (
-    <View style={{ flex: 1, backgroundColor: "green" }}></View>)
-
+    <View style={{flex: 1, backgroundColor: 'pink'}}>
+      <Text>Posts Screen</Text>
+    </View>
+  )
 }
-const Cart = () => {
+
+const CartScreen = () => {
   return (
-    <View style={{ flex: 1, backgroundColor: "green" }}></View>)
-
+    <View style={{flex: 1, backgroundColor: 'red',marginBottom:1}}>
+      <Text>Carts Screen</Text>
+    </View>
+  )
 }
-const Menu = () => {
-  return (
-    <View style={{ flex: 1, backgroundColor: "green" }}></View>)
 
-}
+
+

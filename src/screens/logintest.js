@@ -4,7 +4,6 @@ import { StyleSheet
 , View
 , TextInput
 , TouchableOpacity
-, AsyncStorage
 , Keyboard } from 'react-native';
 import {Actions} from 'react-native-router-flux';
 export default class Form extends Component {

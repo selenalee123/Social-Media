@@ -9,71 +9,71 @@
 9        android:targetSdkVersion="29" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:4:3-75
-11-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:4:20-73
+11-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:4:3-75
+11-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:4:20-73
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:2:3-64
-12-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:2:20-62
+12-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:2:3-64
+12-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:2:20-62
 13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-13-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:5:3-72
-13-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:5:20-70
+13-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:5:3-72
+13-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:5:20-70
 14    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-14-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:6:3-71
-14-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:6:20-69
+14-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:6:3-71
+14-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:6:20-69
 15    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-15-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:7:3-69
-15-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:7:20-67
+15-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:7:3-69
+15-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:7:20-67
 16    <uses-permission android:name="android.permission.VIBRATE" />
-16-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:8:3-63
-16-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:8:20-61
+16-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:8:3-63
+16-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:8:20-61
 17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" /> <!-- These require runtime permissions on M -->
-17-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:9:3-77
-17-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:9:20-75
+17-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:9:3-77
+17-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:9:20-75
 18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-18-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:11:3-78
-18-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:11:20-76
+18-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:11:3-78
+18-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:11:20-76
 19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-19-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:12:3-76
-19-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:12:20-74
+19-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:12:3-76
+19-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:12:20-74
 20    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-20-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:13:3-82
-20-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:13:20-80
+20-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:13:3-82
+20-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:13:20-80
 21    <uses-permission android:name="android.permission.CAMERA" />
-21-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:14:3-62
-21-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:14:20-60
+21-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:14:3-62
+21-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:14:20-60
 22    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-22-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:15:3-68
-22-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:15:20-66
+22-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:15:3-68
+22-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:15:20-66
 23    <uses-permission android:name="android.permission.READ_CONTACTS" />
-23-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:16:3-69
-23-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:16:20-67
+23-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:16:3-69
+23-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:16:20-67
 24    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
-24-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:17:3-70
-24-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:17:20-68
+24-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:17:3-70
+24-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:17:20-68
 25    <uses-permission android:name="android.permission.READ_CALENDAR" />
-25-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:18:3-69
-25-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:18:20-67
+25-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:18:3-69
+25-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:18:20-67
 26    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
-26-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:19:3-70
-26-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:19:20-68
+26-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:19:3-70
+26-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:19:20-68
 27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-27-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:20:3-77
-27-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:20:20-75
+27-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:20:3-77
+27-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:20:20-75
 28    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-28-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:21:3-78
-28-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:21:20-76
+28-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:21:3-78
+28-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:21:20-76
 29    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-29-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:22:3-70
-29-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:22:20-68
+29-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:22:3-70
+29-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:22:20-68
 30    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 30-->[com.facebook.flipper:flipper:0.54.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\939e9ddd1beb234bd20e8b6aa359c5ac\flipper-0.54.0\AndroidManifest.xml:16:5-76
 30-->[com.facebook.flipper:flipper:0.54.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\939e9ddd1beb234bd20e8b6aa359c5ac\flipper-0.54.0\AndroidManifest.xml:16:22-73
 31    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-31-->[:expo-updates] I:\React Native\Project\Social Media\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
-31-->[:expo-updates] I:\React Native\Project\Social Media\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-76
+31-->[:expo-updates] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+31-->[:expo-updates] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-76
 32    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-32-->[:expo-location] I:\React Native\Project\Social Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-77
-32-->[:expo-location] I:\React Native\Project\Social Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-74
+32-->[:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-77
+32-->[:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-74
 33    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
 33-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:15:5-98
 33-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:15:22-95
@@ -82,97 +82,97 @@
 34-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:16:22-91
 35
 36    <application
-36-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:24:3-48:17
+36-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:24:3-48:17
 37        android:name="com.firstappv2.MainApplication"
-37-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:25:5-36
+37-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:25:5-36
 38        android:allowBackup="false"
-38-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:29:5-32
+38-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:29:5-32
 39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 39-->[androidx.core:core:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\11d5861a7a91b5ea305d48ec4a94f7c5\core-1.1.0\AndroidManifest.xml:24:18-86
 40        android:debuggable="true"
 41        android:icon="@mipmap/ic_launcher"
-41-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:27:5-39
+41-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:27:5-39
 42        android:label="@string/app_name"
-42-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:26:5-37
+42-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:26:5-37
 43        android:roundIcon="@mipmap/ic_launcher_round"
-43-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:28:5-50
+43-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:28:5-50
 44        android:theme="@style/AppTheme"
-44-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:30:5-36
+44-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:30:5-36
 45        android:usesCleartextTraffic="true" >
-45-->I:\React Native\Project\Social Media\android\app\src\debug\AndroidManifest.xml:6:18-53
+45-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml:6:18-53
 46        <meta-data
-46-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:32:5-103
+46-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:32:5-103
 47            android:name="expo.modules.updates.EXPO_UPDATE_URL"
-47-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:32:16-67
+47-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:32:16-67
 48            android:value="YOUR-APP-URL-HERE" />
-48-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:32:68-101
+48-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:32:68-101
 49        <meta-data
-49-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:33:5-112
+49-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:33:5-112
 50            android:name="expo.modules.updates.EXPO_SDK_VERSION"
-50-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:33:16-68
+50-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:33:16-68
 51            android:value="YOUR-APP-SDK-VERSION-HERE" />
-51-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:33:69-110
+51-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:33:69-110
 52
 53        <activity
-53-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:34:5-46:16
+53-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:5-46:16
 54            android:name="com.firstappv2.MainActivity"
-54-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:35:7-35
+54-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:35:7-35
 55            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-55-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:37:7-84
+55-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:7-84
 56            android:label="@string/app_name"
-56-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:36:7-39
+56-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:36:7-39
 57            android:launchMode="singleTask"
-57-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:38:7-38
+57-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:38:7-38
 58            android:theme="@style/Theme.App.SplashScreen"
-58-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:40:7-52
+58-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:40:7-52
 59            android:windowSoftInputMode="adjustResize" >
-59-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:39:7-49
+59-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:39:7-49
 60            <intent-filter>
-60-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:42:7-45:23
+60-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:42:7-45:23
 61                <action android:name="android.intent.action.MAIN" />
-61-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:43:9-60
-61-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:43:17-58
+61-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:43:9-60
+61-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:43:17-58
 62
 63                <category android:name="android.intent.category.LAUNCHER" />
-63-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:44:9-68
-63-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:44:19-66
+63-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:44:9-68
+63-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:44:19-66
 64            </intent-filter>
 65        </activity>
 66        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-66-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:47:5-81
-66-->I:\React Native\Project\Social Media\android\app\src\main\AndroidManifest.xml:47:15-79
+66-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:47:5-81
+66-->I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:47:15-79
 67
 68        <meta-data
-68-->[:unimodules-react-native-adapter] I:\React Native\Project\Social Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:91
+68-->[:unimodules-react-native-adapter] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:91
 69            android:name="org.unimodules.core.AppLoader#react-native-headless"
-69-->[:unimodules-react-native-adapter] I:\React Native\Project\Social Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-79
+69-->[:unimodules-react-native-adapter] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-79
 70            android:value="org.unimodules.adapters.react.apploader.RNHeadlessAppLoader" />
-70-->[:unimodules-react-native-adapter] I:\React Native\Project\Social Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+70-->[:unimodules-react-native-adapter] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
 71
 72        <provider
-72-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-26:20
+72-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-26:20
 73            android:name="expo.modules.filesystem.FileSystemFileProvider"
-73-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-74
+73-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-74
 74            android:authorities="com.firstappv2.FileSystemFileProvider"
-74-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+74-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
 75            android:exported="false"
-75-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-37
+75-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-37
 76            android:grantUriPermissions="true" >
-76-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-47
+76-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-47
 77            <meta-data
-77-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-25:70
+77-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-25:70
 78                android:name="android.support.FILE_PROVIDER_PATHS"
-78-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:17-67
+78-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:17-67
 79                android:resource="@xml/file_system_provider_paths" />
-79-->[:expo-file-system] I:\React Native\Project\Social Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+79-->[:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
 80        </provider>
 81
 82        <service
-82-->[:expo-location] I:\React Native\Project\Social Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-19:40
+82-->[:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-19:40
 83            android:name="expo.modules.location.services.LocationTaskService"
-83-->[:expo-location] I:\React Native\Project\Social Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-78
+83-->[:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-78
 84            android:exported="false" />
-84-->[:expo-location] I:\React Native\Project\Social Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
+84-->[:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
 85
 86        <activity
 86-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75

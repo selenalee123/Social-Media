@@ -71,7 +71,7 @@ export default class Test extends Component {
                 borderColor: '#333',
                 backgroundColor: 'white'
               }} />
-          </View>
+          
          
             <View>
             <FontAwesome
@@ -86,7 +86,7 @@ export default class Test extends Component {
               color="gray"
               size={20}
               />
-            
+            </View>
           </View>
         </View>
 
