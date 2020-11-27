@@ -763,8 +763,18 @@ expo/modules/location/R.java
  expo.modules.location.R$string
  expo.modules.location.R$style
  expo.modules.location.R$styleable
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
+androidx/room/R.java
+ androidx.room.R
+ androidx.room.R$attr
+ androidx.room.R$color
+ androidx.room.R$dimen
+ androidx.room.R$drawable
+ androidx.room.R$id
+ androidx.room.R$integer
+ androidx.room.R$layout
+ androidx.room.R$string
+ androidx.room.R$style
+ androidx.room.R$styleable
 com/BV/LinearGradient/R.java
  com.BV.LinearGradient.R
 org/webkit/androidjsc/R.java
@@ -824,25 +834,6 @@ com/firstappv2/BuildConfig.java
  com.firstappv2.BuildConfig
 com/google/android/gms/location/R.java
  com.google.android.gms.location.R
-com/firstappv2/MainApplication.java
- com.firstappv2.MainApplication
- com.firstappv2.MainApplication$1
-com/google/android/gms/tasks/R.java
- com.google.android.gms.tasks.R
-org/unimodules/interfaces/facedetector/R.java
- org.unimodules.interfaces.facedetector.R
-androidx/room/R.java
- androidx.room.R
- androidx.room.R$attr
- androidx.room.R$color
- androidx.room.R$dimen
- androidx.room.R$drawable
- androidx.room.R$id
- androidx.room.R$integer
- androidx.room.R$layout
- androidx.room.R$string
- androidx.room.R$style
- androidx.room.R$styleable
 expo/modules/updates/R.java
  expo.modules.updates.R
  expo.modules.updates.R$anim
@@ -858,3 +849,27 @@ expo/modules/updates/R.java
  expo.modules.updates.R$style
  expo.modules.updates.R$styleable
  expo.modules.updates.R$xml
+com/google/android/gms/tasks/R.java
+ com.google.android.gms.tasks.R
+org/unimodules/interfaces/facedetector/R.java
+ org.unimodules.interfaces.facedetector.R
+com/firstappv2/MainApplication.java
+ com.firstappv2.MainApplication
+ com.firstappv2.MainApplication$1
+com/reactnativecommunity/asyncstorage/R.java
+ com.reactnativecommunity.asyncstorage.R
+ com.reactnativecommunity.asyncstorage.R$anim
+ com.reactnativecommunity.asyncstorage.R$attr
+ com.reactnativecommunity.asyncstorage.R$bool
+ com.reactnativecommunity.asyncstorage.R$color
+ com.reactnativecommunity.asyncstorage.R$dimen
+ com.reactnativecommunity.asyncstorage.R$drawable
+ com.reactnativecommunity.asyncstorage.R$id
+ com.reactnativecommunity.asyncstorage.R$integer
+ com.reactnativecommunity.asyncstorage.R$layout
+ com.reactnativecommunity.asyncstorage.R$string
+ com.reactnativecommunity.asyncstorage.R$style
+ com.reactnativecommunity.asyncstorage.R$styleable
+ com.reactnativecommunity.asyncstorage.R$xml
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

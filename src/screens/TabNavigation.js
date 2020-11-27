@@ -7,7 +7,7 @@ import Pro from "./Pro";
 import Profile from "./Profilescreen";
 import Profilescreen from './Profilescreen';
 import Articles from './Articles';
-import Menu from './Menu'
+import SideMenu from './SideMenu'
 
 
 
@@ -77,9 +77,9 @@ class TabNavigation extends Component {
           {this.state.tabIndex === 0 && <Pro />}
           {this.state.tabIndex === 1 && <Profilescreen />}
           {this.state.tabIndex === 2 && <Articles />}
-          {this.state.tabIndex === 3 && <Menu/>}
+          {this.state.tabIndex === 3 && <SideMenu/>}
         </View>
-        <View style={{height: 70, flexDirection: 'row'}}>
+        <View style={{height: 60,borderColor:"black", flexDirection: 'row',backgroundColor:"white"}}>
           {this.renderItems()}
         </View>
       </View>
