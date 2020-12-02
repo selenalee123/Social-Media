@@ -7,8 +7,6 @@ const supportedURL = "https://google.com";
 const emailSupport = 'mailto:kim.trainee@gmail.com?subject=Kim Application Support&body=userId: 123456'
 const telSupport = 'tel:0938475625'
 const smsSupport = 'sms:+123456789?body=My Application support'
-
-
 export default class Menu extends Component {
     render() {
         return (

@@ -1,7 +1,8 @@
 
-import React  from 'react';
-import { View, Text, Header } from 'react-native';
-import { SocialIcon } from 'react-native-elements'
+import React from 'react';
+import { View,  StyleSheet,Text, Header,TouchableOpacity } from 'react-native';
+import { SocialIcon } from 'react-native-elements';
+import Ionicons from 'react-native-vector-icons/Ionicons';
 import Pro from "./src/screens/Pro";
 import Test from "./src/screens/Test";
 import Profilescreen from "./src/screens/Profilescreen";
@@ -11,35 +12,38 @@ import Form from "./src/screens/logintest";
 import { Actions } from 'react-native-router-flux';
 import TabNavigation from "./src/screens/TabNavigation";
 import { Router, Stack, Scene, Drawer } from 'react-native-router-flux';
-import  SideMenu from './src/screens/SideMenu';
+import SideMenu from './src/screens/SideMenu';
+import Camera from './src/screens/Camera';
+import DatePicker from './src/screens/DatePicker';
+
 
 
 
 
 //import Onboarding from "./src/screen/Onboarding"
 const App: () => React$Node = () => {
-  return(
-      <TabNavigation/>
-   )
-}
+  return (
+    <Router>
+      <Stack key="root">
+        <Drawer
+          key="drawer"
+          contentComponent={SideMenu}
+          drawerWidth={300}
+          drawerPosition='left'
+        >
+          <Scene key="Camera" component={Camera} hideNavBar />
+          <Scene key="DatePicker" component={DatePicker} hideNavBar initial/>
+        
+
+          <Scene key="Articles" component={Articles} hideNavBar  />
+          <Scene key="TabNavigation" component={TabNavigation} hideNavBar  />
+          
+          <Scene key="Profilescreen" component={Profilescreen} hideNavBar />
+        </Drawer>
+      </Stack>
+    </Router>
+  );
+};
 export default App;
 
-const SideMenu1 = () => {
-  return (
-    <View style={{flex: 1, backgroundColor: 'red'}}>
-      <View style={{height: 250, backgroundColor: 'pink', justifyContent: 'center', alignItems: 'center'}}>
-        <View style={{width: 90, height: 90, borderRadius: 45, backgroundColor: 'blue'}}/>
-      </View>
-      {
-        ['Home', 'My posts', 'My orders', 'History', 'Notification', 'Settings'].map((item, index) => {
-          return (
-            <View key={index} style={{height: 40, backgroundColor: 'grey', marginTop: 0.5, flexDirection: 'row', alignItems: 'center', paddingHorizontal: 16}}>
-              <View style={{width: 30, height: 30, borderRadius: 15, backgroundColor: 'blue'}}/>
-              <Text style={{fontSize: 16, color: 'black', marginLeft: 12}}>{item}</Text>
-            </View>
-          )
-        })
-      }
-    </View>
-  )
-}
+

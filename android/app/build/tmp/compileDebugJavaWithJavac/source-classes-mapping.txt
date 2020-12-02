@@ -182,6 +182,8 @@ com/google/android/gms/base/R.java
  com.google.android.gms.base.R$id
  com.google.android.gms.base.R$string
  com.google.android.gms.base.R$styleable
+com/google/android/gms/flags/R.java
+ com.google.android.gms.flags.R
 com/facebook/soloader/R.java
  com.facebook.soloader.R
 com/facebook/imagepipeline/backends/okhttp3/R.java
@@ -247,6 +249,21 @@ com/facebook/fresco/memorytypes/nativememory/R.java
  com.facebook.fresco.memorytypes.nativememory.R$styleable
 expo/modules/lineargradient/R.java
  expo.modules.lineargradient.R
+com/imagepicker/R.java
+ com.imagepicker.R
+ com.imagepicker.R$anim
+ com.imagepicker.R$attr
+ com.imagepicker.R$bool
+ com.imagepicker.R$color
+ com.imagepicker.R$dimen
+ com.imagepicker.R$drawable
+ com.imagepicker.R$id
+ com.imagepicker.R$integer
+ com.imagepicker.R$layout
+ com.imagepicker.R$string
+ com.imagepicker.R$style
+ com.imagepicker.R$styleable
+ com.imagepicker.R$xml
 org/unimodules/apploader/R.java
  org.unimodules.apploader.R
 androidx/swiperefreshlayout/R.java
@@ -318,6 +335,8 @@ expo/modules/permissions/R.java
  expo.modules.permissions.R$string
  expo.modules.permissions.R$style
  expo.modules.permissions.R$styleable
+androidx/exifinterface/R.java
+ androidx.exifinterface.R
 androidx/legacy/coreutils/R.java
  androidx.legacy.coreutils.R
  androidx.legacy.coreutils.R$attr
@@ -425,8 +444,12 @@ androidx/viewpager2/R.java
  androidx.viewpager2.R$string
  androidx.viewpager2.R$style
  androidx.viewpager2.R$styleable
+com/google/android/gms/vision_common/R.java
+ com.google.android.gms.vision_common.R
 com/facebook/fbcore/R.java
  com.facebook.fbcore.R
+com/google/android/gms/phenotype/R.java
+ com.google.android.gms.phenotype.R
 androidx/vectordrawable/R.java
  androidx.vectordrawable.R
  androidx.vectordrawable.R$attr
@@ -521,6 +544,21 @@ org/reactnative/maskedview/R.java
  org.reactnative.maskedview.R$xml
 org/unimodules/interfaces/constants/R.java
  org.unimodules.interfaces.constants.R
+org/reactnative/camera/R.java
+ org.reactnative.camera.R
+ org.reactnative.camera.R$anim
+ org.reactnative.camera.R$attr
+ org.reactnative.camera.R$bool
+ org.reactnative.camera.R$color
+ org.reactnative.camera.R$dimen
+ org.reactnative.camera.R$drawable
+ org.reactnative.camera.R$id
+ org.reactnative.camera.R$integer
+ org.reactnative.camera.R$layout
+ org.reactnative.camera.R$string
+ org.reactnative.camera.R$style
+ org.reactnative.camera.R$styleable
+ org.reactnative.camera.R$xml
 androidx/activity/R.java
  androidx.activity.R
  androidx.activity.R$attr
@@ -677,6 +715,21 @@ expo/modules/imageloader/R.java
  expo.modules.imageloader.R$styleable
 androidx/lifecycle/livedata/R.java
  androidx.lifecycle.livedata.R
+com/reactnativecommunity/asyncstorage/R.java
+ com.reactnativecommunity.asyncstorage.R
+ com.reactnativecommunity.asyncstorage.R$anim
+ com.reactnativecommunity.asyncstorage.R$attr
+ com.reactnativecommunity.asyncstorage.R$bool
+ com.reactnativecommunity.asyncstorage.R$color
+ com.reactnativecommunity.asyncstorage.R$dimen
+ com.reactnativecommunity.asyncstorage.R$drawable
+ com.reactnativecommunity.asyncstorage.R$id
+ com.reactnativecommunity.asyncstorage.R$integer
+ com.reactnativecommunity.asyncstorage.R$layout
+ com.reactnativecommunity.asyncstorage.R$string
+ com.reactnativecommunity.asyncstorage.R$style
+ com.reactnativecommunity.asyncstorage.R$styleable
+ com.reactnativecommunity.asyncstorage.R$xml
 androidx/lifecycle/R.java
  androidx.lifecycle.R
 androidx/documentfile/R.java
@@ -763,18 +816,21 @@ expo/modules/location/R.java
  expo.modules.location.R$string
  expo.modules.location.R$style
  expo.modules.location.R$styleable
-androidx/room/R.java
- androidx.room.R
- androidx.room.R$attr
- androidx.room.R$color
- androidx.room.R$dimen
- androidx.room.R$drawable
- androidx.room.R$id
- androidx.room.R$integer
- androidx.room.R$layout
- androidx.room.R$string
- androidx.room.R$style
- androidx.room.R$styleable
+expo/modules/updates/R.java
+ expo.modules.updates.R
+ expo.modules.updates.R$anim
+ expo.modules.updates.R$attr
+ expo.modules.updates.R$bool
+ expo.modules.updates.R$color
+ expo.modules.updates.R$dimen
+ expo.modules.updates.R$drawable
+ expo.modules.updates.R$id
+ expo.modules.updates.R$integer
+ expo.modules.updates.R$layout
+ expo.modules.updates.R$string
+ expo.modules.updates.R$style
+ expo.modules.updates.R$styleable
+ expo.modules.updates.R$xml
 com/BV/LinearGradient/R.java
  com.BV.LinearGradient.R
 org/webkit/androidjsc/R.java
@@ -834,42 +890,43 @@ com/firstappv2/BuildConfig.java
  com.firstappv2.BuildConfig
 com/google/android/gms/location/R.java
  com.google.android.gms.location.R
-expo/modules/updates/R.java
- expo.modules.updates.R
- expo.modules.updates.R$anim
- expo.modules.updates.R$attr
- expo.modules.updates.R$bool
- expo.modules.updates.R$color
- expo.modules.updates.R$dimen
- expo.modules.updates.R$drawable
- expo.modules.updates.R$id
- expo.modules.updates.R$integer
- expo.modules.updates.R$layout
- expo.modules.updates.R$string
- expo.modules.updates.R$style
- expo.modules.updates.R$styleable
- expo.modules.updates.R$xml
+com/google/android/gms/clearcut/R.java
+ com.google.android.gms.clearcut.R
 com/google/android/gms/tasks/R.java
  com.google.android.gms.tasks.R
 org/unimodules/interfaces/facedetector/R.java
  org.unimodules.interfaces.facedetector.R
+androidx/room/R.java
+ androidx.room.R
+ androidx.room.R$attr
+ androidx.room.R$color
+ androidx.room.R$dimen
+ androidx.room.R$drawable
+ androidx.room.R$id
+ androidx.room.R$integer
+ androidx.room.R$layout
+ androidx.room.R$string
+ androidx.room.R$style
+ androidx.room.R$styleable
+com/google/android/gms/vision/R.java
+ com.google.android.gms.vision.R
+com/reactcommunity/rndatetimepicker/R.java
+ com.reactcommunity.rndatetimepicker.R
+ com.reactcommunity.rndatetimepicker.R$anim
+ com.reactcommunity.rndatetimepicker.R$attr
+ com.reactcommunity.rndatetimepicker.R$bool
+ com.reactcommunity.rndatetimepicker.R$color
+ com.reactcommunity.rndatetimepicker.R$dimen
+ com.reactcommunity.rndatetimepicker.R$drawable
+ com.reactcommunity.rndatetimepicker.R$id
+ com.reactcommunity.rndatetimepicker.R$integer
+ com.reactcommunity.rndatetimepicker.R$layout
+ com.reactcommunity.rndatetimepicker.R$string
+ com.reactcommunity.rndatetimepicker.R$style
+ com.reactcommunity.rndatetimepicker.R$styleable
+ com.reactcommunity.rndatetimepicker.R$xml
 com/firstappv2/MainApplication.java
  com.firstappv2.MainApplication
  com.firstappv2.MainApplication$1
-com/reactnativecommunity/asyncstorage/R.java
- com.reactnativecommunity.asyncstorage.R
- com.reactnativecommunity.asyncstorage.R$anim
- com.reactnativecommunity.asyncstorage.R$attr
- com.reactnativecommunity.asyncstorage.R$bool
- com.reactnativecommunity.asyncstorage.R$color
- com.reactnativecommunity.asyncstorage.R$dimen
- com.reactnativecommunity.asyncstorage.R$drawable
- com.reactnativecommunity.asyncstorage.R$id
- com.reactnativecommunity.asyncstorage.R$integer
- com.reactnativecommunity.asyncstorage.R$layout
- com.reactnativecommunity.asyncstorage.R$string
- com.reactnativecommunity.asyncstorage.R$style
- com.reactnativecommunity.asyncstorage.R$styleable
- com.reactnativecommunity.asyncstorage.R$xml
 com/facebook/react/PackageList.java
  com.facebook.react.PackageList

@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import { StyleSheet,Text, View, TouchableOpacity} from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import { TouchableHighlight } from 'react-native-gesture-handler';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import { createAppContainer, NavigationContext } from 'react-navigation';
 import { createDrawerNavigator } from 'react-navigation-drawer';
-import {Action} from "react-native-router-flux"
+import { Action, Actions } from "react-native-router-flux"
 //Stacks
 const ITEMS = [
     {
@@ -54,20 +54,22 @@ const ITEMS = [
         title: 'Profile'
     },
 
-   
-]
 
+]
 
 class SideMenu extends Component {
     render() {
         return (
-        
-            <View style={{backgroundColor:'#FC7307', }}>
+
+            <View style={{ backgroundColor: '#FC7307', }}>
+
                 <TouchableOpacity style={styles.container}>
                     <Ionicons name="ios-home" style={styles.icon}></Ionicons>
-                    <Text  style={styles.text} > Home</Text>
+                    <Text style={styles.text} > Home</Text>
                 </TouchableOpacity>
-                <TouchableOpacity style={styles.container}>
+                <TouchableOpacity
+                    style={styles.container}
+                    onPress={() => Actions.Profilescreen()}>
                     <Ionicons name="ios-image" style={styles.icon}></Ionicons>
                     <Text style={styles.text}> Examples </Text>
                 </TouchableOpacity>
@@ -75,11 +77,15 @@ class SideMenu extends Component {
                     <Ionicons name="ios-albums" style={styles.icon} ></Ionicons>
                     <Text style={styles.text}> Components </Text>
                 </TouchableOpacity>
-                <TouchableOpacity style={styles.container}>
+                <TouchableOpacity
+                    style={styles.container}
+                    onPress={() => Actions.Articles()}>
                     <Ionicons name="ios-cut" style={styles.icon}></Ionicons>
                     <Text style={styles.text}> Articles</Text>
                 </TouchableOpacity>
-                <TouchableOpacity style={styles.container}>
+                <TouchableOpacity
+                    style={styles.container}
+                    onPress={() => Actions.Profilescreen()}>
                     <Ionicons name="ios-person" style={styles.icon}></Ionicons>
                     <Text style={styles.text}> Profile</Text>
                 </TouchableOpacity>
@@ -98,7 +104,7 @@ class SideMenu extends Component {
                     <Text style={styles.text}>Log Out</Text>
                 </TouchableOpacity>
             </View>
-          
+
         )
     }
 }
@@ -108,16 +114,16 @@ const styles = StyleSheet.create({
     container: {
         flexDirection: 'row',
         paddingTop: 10,
-        
-       
+
+
     },
 
-    text:{
-        color:"white",
-        fontSize:24
+    text: {
+        color: "white",
+        fontSize: 24
     },
-    icon:{
-        color:"white",
+    icon: {
+        color: "white",
         fontSize: 24
     },
 })

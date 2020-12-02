@@ -124,6 +124,10 @@
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_surface_view.xml.flat",
+        "source": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\node_modules\\react-native-camera\\android\\build\\intermediates\\packaged_res\\general\\debug\\layout\\surface_view.xml"
+    },
+    {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
@@ -1308,6 +1312,10 @@
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\debug\\layout\\list_item.xml"
+    },
+    {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
@@ -2076,6 +2084,10 @@
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14_texture_view.xml.flat",
+        "source": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\node_modules\\react-native-camera\\android\\build\\intermediates\\packaged_res\\general\\debug\\layout-v14\\texture_view.xml"
+    },
+    {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_extended_fab_change_size_motion_spec.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\e9c85a77bc5839ea409a0def411de8be\\material-1.1.0\\res\\animator\\mtrl_extended_fab_change_size_motion_spec.xml"
     },
@@ -2578,6 +2590,10 @@
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\debug\\xml\\provider_paths.xml"
     },
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",

@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-49:12
-MERGED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-49:12
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-45:12
 MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\939e9ddd1beb234bd20e8b6aa359c5ac\flipper-0.54.0\AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\fc9af342b8e1c3f3fbb061a746c4a395\flipper-network-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\3d98f4b52593e4f1c5a24bb43e624b04\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
@@ -12,8 +12,11 @@ MERGED from [:unimodules-react-native-adapter] I:\React Native\Project\Social Me
 MERGED from [:expo-splash-screen] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-updates] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-async-storage_async-storage] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-community_masked-view] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:2:1-18:12
 MERGED from [:react-native-gesture-handler] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
 MERGED from [:react-native-reanimated] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
@@ -22,10 +25,15 @@ MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\anyap\.gradle\cach
 MERGED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-29:12
 MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1af50a0e53a9887eb7a378070ce3050a\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0b2979340ab435b01729129676ec7826\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1b8c733e9fd3a7e0f1bd07dd49a86caa\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -73,6 +81,7 @@ MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\anyap\.gradle\cache
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\4a3a76cd57a6f7f70afbbc82f98fe614\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b662211707e5bb55f03c43b596b3f074\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7872e8b0fc76def0884b5bc5946ae78a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\73e5cda5390c5305da803bef3fc6773e\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\3e24804f48582cbd6f4b8a5404ac7bb7\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\fae73d58bfa314db6d625712fa36839c\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b78121f58a39f19e0ce5fb61b325933d\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -119,13 +128,13 @@ INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\andr
 		INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-45:12
 		INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml:2:5-51
 	android:versionCode
 		INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:1-45:12
 		INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:1:11-69
@@ -189,6 +198,8 @@ MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\So
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:13:20-80
 uses-permission#android.permission.CAMERA
 ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:14:3-62
+MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
 	android:name
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:14:20-60
 uses-permission#android.permission.RECORD_AUDIO
@@ -228,11 +239,15 @@ ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android
 	android:name
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:22:20-68
 application
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:24:3-48:17
-MERGED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:24:3-48:17
-MERGED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:24:3-48:17
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:3-44:17
+MERGED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:3-44:17
+MERGED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:3-44:17
 MERGED from [:unimodules-react-native-adapter] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
 MERGED from [:unimodules-react-native-adapter] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\49bcf482e29a0c92340fcff6cb7a7845\jetified-react-native-0.63.3\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\49bcf482e29a0c92340fcff6cb7a7845\jetified-react-native-0.63.3\AndroidManifest.xml:11:5-20
 MERGED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-27:19
@@ -241,14 +256,22 @@ MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\So
 MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-20:19
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f25fc35181a0a553a5ecba46d232e6d4\soloader-0.9.0\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f25fc35181a0a553a5ecba46d232e6d4\soloader-0.9.0\AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\e9c85a77bc5839ea409a0def411de8be\material-1.1.0\AndroidManifest.xml:22:5-20
@@ -268,69 +291,69 @@ MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\11d5861a7a91b5ea305d48ec4a94f7c5\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:26:5-37
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:26:5-37
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:48-80
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:48-80
 	tools:ignore
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml:6:75-114
 	android:roundIcon
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:28:5-50
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:28:5-50
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:116-161
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:116-161
 	tools:targetApi
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml:6:54-74
 	android:icon
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:27:5-39
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:27:5-39
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:81-115
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:81-115
 	android:allowBackup
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:29:5-32
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:29:5-32
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:162-189
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:162-189
 	android:theme
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:30:5-36
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:30:5-36
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:190-221
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:190-221
 	android:usesCleartextTraffic
 		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\debug\AndroidManifest.xml:6:18-53
 	android:name
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:25:5-36
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:25:5-36
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:16-47
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:16-47
 meta-data#expo.modules.updates.EXPO_UPDATE_URL
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:32:5-103
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:35:5-103
 	android:value
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:32:68-101
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:35:68-101
 	android:name
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:32:16-67
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:35:16-67
 meta-data#expo.modules.updates.EXPO_SDK_VERSION
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:33:5-112
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:36:5-112
 	android:value
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:33:69-110
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:36:69-110
 	android:name
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:33:16-68
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:36:16-68
 activity#com.firstappv2.MainActivity
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:34:5-46:16
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:5-42:16
 	android:label
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:36:7-39
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:44-76
 	android:launchMode
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:38:7-38
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:155-186
 	android:windowSoftInputMode
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:39:7-49
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:187-229
 	android:configChanges
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:7-84
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:77-154
 	android:theme
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:40:7-52
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:230-275
 	android:name
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:35:7-35
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:37:15-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:42:7-45:23
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:38:7-41:23
 action#android.intent.action.MAIN
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:43:9-60
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:39:9-60
 	android:name
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:43:17-58
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:39:17-58
 category#android.intent.category.LAUNCHER
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:44:9-68
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:40:9-68
 	android:name
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:44:19-66
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:40:19-66
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:47:5-81
+ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:43:5-81
 	android:name
-		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:47:15-79
+		ADDED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml:43:15-79
 uses-sdk
 INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from I:\React Native\Project\Social Media november 18\Social-Media\android\app\src\main\AndroidManifest.xml
@@ -349,10 +372,16 @@ MERGED from [:expo-updates] I:\React Native\Project\Social Media november 18\Soc
 MERGED from [:expo-updates] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-async-storage_async-storage] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-async-storage_async-storage] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-community_masked-view] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-reanimated] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-safe-area-context] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -369,14 +398,24 @@ MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\So
 MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1af50a0e53a9887eb7a378070ce3050a\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1af50a0e53a9887eb7a378070ce3050a\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0b2979340ab435b01729129676ec7826\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
@@ -471,6 +510,8 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\any
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b662211707e5bb55f03c43b596b3f074\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7872e8b0fc76def0884b5bc5946ae78a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7872e8b0fc76def0884b5bc5946ae78a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\73e5cda5390c5305da803bef3fc6773e\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\73e5cda5390c5305da803bef3fc6773e\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\3e24804f48582cbd6f4b8a5404ac7bb7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\3e24804f48582cbd6f4b8a5404ac7bb7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\fae73d58bfa314db6d625712fa36839c\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
@@ -567,6 +608,34 @@ MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\cach
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:13:5-79
 	android:name
 		ADDED from [:expo-updates] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-76
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:15:9-57
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
 provider#expo.modules.filesystem.FileSystemFileProvider
 ADDED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-26:20
 	android:grantUriPermissions
@@ -579,12 +648,6 @@ ADDED from [:expo-file-system] I:\React Native\Project\Social Media november 18\
 		ADDED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-48
 	android:name
 		ADDED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-74
-meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-25:70
-	android:resource
-		ADDED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
-	android:name
-		ADDED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:17-67
 uses-permission#android.permission.FOREGROUND_SERVICE
 ADDED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-77
 	android:name
@@ -604,11 +667,11 @@ ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gr
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5966c18e8691c1be81af1d14ef4af7d6\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
 	android:exported

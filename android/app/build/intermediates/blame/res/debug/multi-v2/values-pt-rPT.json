@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\5490a6418a4abf5b6effd6b35aab979b\\jetified-play-services-basement-16.1.0\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4037",
+                        "endColumns": "203",
+                        "endOffsets": "4236"
+                    }
+                },
+                {
                     "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\11d5861a7a91b5ea305d48ec4a94f7c5\\core-1.1.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2",
@@ -35,23 +52,6 @@
                         "startOffsets": "5756",
                         "endColumns": "100",
                         "endOffsets": "5852"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\5966c18e8691c1be81af1d14ef4af7d6\\jetified-play-services-basement-16.0.1\\res\\values-pt-rPT\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "203",
-                        "endOffsets": "454"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4037",
-                        "endColumns": "203",
-                        "endOffsets": "4236"
                     }
                 },
                 {
