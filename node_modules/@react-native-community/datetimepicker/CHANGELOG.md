@@ -1,9 +1,5 @@
 # CHANGELOG
 
-### Changelog is no longer maintained
-
-Please see the [releases page](https://github.com/react-native-community/datetimepicker/releases)
-
 ### 2.6.0
 
 - Add time picker for Windows [#206](https://github.com/react-native-community/datetimepicker/pull/206)

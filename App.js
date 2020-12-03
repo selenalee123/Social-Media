@@ -14,6 +14,7 @@ import TabNavigation from "./src/screens/TabNavigation";
 import { Router, Stack, Scene, Drawer } from 'react-native-router-flux';
 import SideMenu from './src/screens/SideMenu';
 import Camera from './src/screens/Camera';
+import ImagePicker from './src/screens/ImagePicker';
 import DatePicker from './src/screens/DatePicker';
 
 
@@ -32,7 +33,9 @@ const App: () => React$Node = () => {
           drawerPosition='left'
         >
           <Scene key="Camera" component={Camera} hideNavBar />
-          <Scene key="DatePicker" component={DatePicker} hideNavBar initial/>
+          <Scene key="DatePicker" component={DatePicker} hideNavBar initial  />
+          <Scene key="ImagePicker" component={ImagePicker} hideNavBar />
+        
         
 
           <Scene key="Articles" component={Articles} hideNavBar  />

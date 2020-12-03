@@ -23,8 +23,6 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 
-import static com.reactcommunity.rndatetimepicker.Common.dismissDialog;
-
 /**
  * {@link NativeModule} that allows JS to show a native time picker dialog and get called back when
  * the user selects a time.
@@ -86,13 +84,7 @@ public class RNTimePickerDialogModule extends ReactContextBaseJavaModule {
   }
 
   @ReactMethod
-  public void dismiss(Promise promise) {
-    FragmentActivity activity = (FragmentActivity) getCurrentActivity();
-    dismissDialog(activity, FRAGMENT_TAG, promise);
-  }
-
-  @ReactMethod
-  public void open(@Nullable final ReadableMap options, final Promise promise) {
+  public void open(@Nullable final ReadableMap options, Promise promise) {
 
     FragmentActivity activity = (FragmentActivity) getCurrentActivity();
     if (activity == null) {
@@ -103,7 +95,7 @@ public class RNTimePickerDialogModule extends ReactContextBaseJavaModule {
     }
     // We want to support both android.app.Activity and the pre-Honeycomb FragmentActivity
     // (for apps that use it for legacy reasons). This unfortunately leads to some code duplication.
-    final FragmentManager fragmentManager = activity.getSupportFragmentManager();
+    FragmentManager fragmentManager = activity.getSupportFragmentManager();
     final RNTimePickerDialogFragment oldFragment = (RNTimePickerDialogFragment) fragmentManager.findFragmentByTag(FRAGMENT_TAG);
 
     if (oldFragment != null && options != null) {
@@ -117,22 +109,17 @@ public class RNTimePickerDialogModule extends ReactContextBaseJavaModule {
       return;
     }
 
-    UiThreadUtil.runOnUiThread(new Runnable() {
-      @Override
-      public void run() {
-        RNTimePickerDialogFragment fragment = new RNTimePickerDialogFragment();
+    RNTimePickerDialogFragment fragment = new RNTimePickerDialogFragment();
 
-        if (options != null) {
-          fragment.setArguments(createFragmentArguments(options));
-        }
+    if (options != null) {
+      fragment.setArguments(createFragmentArguments(options));
+    }
 
-        final TimePickerDialogListener listener = new TimePickerDialogListener(promise);
-        fragment.setOnDismissListener(listener);
-        fragment.setOnTimeSetListener(listener);
-        fragment.setOnNeutralButtonActionListener(listener);
-        fragment.show(fragmentManager, FRAGMENT_TAG);
-      }
-    });
+    final TimePickerDialogListener listener = new TimePickerDialogListener(promise);
+    fragment.setOnDismissListener(listener);
+    fragment.setOnTimeSetListener(listener);
+    fragment.setOnNeutralButtonActionListener(listener);
+    fragment.show(fragmentManager, FRAGMENT_TAG);
   }
 
   private Bundle createFragmentArguments(ReadableMap options) {

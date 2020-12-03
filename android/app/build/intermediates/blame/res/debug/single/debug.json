@@ -28,12 +28,12 @@
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\11d5861a7a91b5ea305d48ec4a94f7c5\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\11d5861a7a91b5ea305d48ec4a94f7c5\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\9b401f78fb46ae192e1f925887683881\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\0d3c8b79a8d15cba91ec886187924a8f\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\9b401f78fb46ae192e1f925887683881\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -136,40 +136,40 @@
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\9b401f78fb46ae192e1f925887683881\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_redbox_top_border_background.xml.flat",
+        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\49bcf482e29a0c92340fcff6cb7a7845\\jetified-react-native-0.63.3\\res\\drawable\\redbox_top_border_background.xml"
     },
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_redbox_top_border_background.xml.flat",
-        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\49bcf482e29a0c92340fcff6cb7a7845\\jetified-react-native-0.63.3\\res\\drawable\\redbox_top_border_background.xml"
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\9b401f78fb46ae192e1f925887683881\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
-        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_text_input_date.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\e9c85a77bc5839ea409a0def411de8be\\material-1.1.0\\res\\layout\\mtrl_picker_text_input_date.xml"
+    },
+    {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\11d5861a7a91b5ea305d48ec4a94f7c5\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\anyap\\.gradle\\caches\\transforms-2\\files-2.1\\c21444b7b4a50af5f801301e8a897ced\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "I:\\React Native\\Project\\Social Media november 18\\Social-Media\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_background_disabled.xml.flat",
