@@ -14,6 +14,7 @@ MERGED from [:expo-updates] I:\React Native\Project\Social Media november 18\Soc
 MERGED from [:react-native-async-storage_async-storage] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-community_masked-view] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_app] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:2:1-18:12
 MERGED from [:react-native-gesture-handler] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-image-picker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
@@ -23,17 +24,6 @@ MERGED from [:react-native-screens] I:\React Native\Project\Social Media novembe
 MERGED from [:react-native-vector-icons] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\49bcf482e29a0c92340fcff6cb7a7845\jetified-react-native-0.63.3\AndroidManifest.xml:2:1-13:12
 MERGED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-29:12
-MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1af50a0e53a9887eb7a378070ce3050a\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0b2979340ab435b01729129676ec7826\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1b8c733e9fd3a7e0f1bd07dd49a86caa\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -44,6 +34,7 @@ MERGED from [:expo-haptics] I:\React Native\Project\Social Media november 18\Soc
 MERGED from [:expo-image-loader] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-image-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-keep-awake] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-linear-gradient] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
 MERGED from [:expo-permissions] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-sqlite] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-app-loader] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
@@ -82,6 +73,20 @@ MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\anyap\.gradl
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b662211707e5bb55f03c43b596b3f074\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7872e8b0fc76def0884b5bc5946ae78a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\73e5cda5390c5305da803bef3fc6773e\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\610dccff03a71b38821234b2d968b3b5\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\8d4bd71d1c4d459b6f6e2820b9105186\play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\52cd8cdc35e752167164e5643a73a3d6\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\3e24804f48582cbd6f4b8a5404ac7bb7\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\fae73d58bfa314db6d625712fa36839c\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b78121f58a39f19e0ce5fb61b325933d\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -89,8 +94,8 @@ MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\tra
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\4035060c5c79fd40106535982f9b868b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0d3c8b79a8d15cba91ec886187924a8f\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7c28fed34cfcce171471c3033960b5e2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\17f1351ba14a9e8f6d213a348e8c285e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\faaa572e0bc0059999ecd0371084d850\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\17f1351ba14a9e8f6d213a348e8c285e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0cded6203e7e33a53aaf4bdb6ba38181\activity-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\587edd84b06454774f753fe039f916fb\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\89e550cd708132a332726f8ea50c23c8\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -110,6 +115,7 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\anyap\.gradle\caches\tra
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f0c54d942438e82bb09a1e6336639ebc\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9011a7b3eb27f0c2f9a6f114e1bdbc35\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b7f3a0f0357eb42f2e6c9031f281dd34\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\78cadd6a38cdfbfec2f45b5ba54540ec\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\ba763b7d6213b98b8dfa5feae97797d9\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0aa674e16a95dadc3e227e68530fe519\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d77e55e7b9c911213da33bd5dfc5825b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
@@ -254,6 +260,14 @@ MERGED from [:expo-file-system] I:\React Native\Project\Social Media november 18
 MERGED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-27:19
 MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-20:19
 MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f25fc35181a0a553a5ecba46d232e6d4\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f25fc35181a0a553a5ecba46d232e6d4\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\e9c85a77bc5839ea409a0def411de8be\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\e9c85a77bc5839ea409a0def411de8be\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5e9e2300a9208546cb3430620d81f397\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5e9e2300a9208546cb3430620d81f397\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:7:5-20
@@ -264,20 +278,16 @@ MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anya
 MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f25fc35181a0a553a5ecba46d232e6d4\soloader-0.9.0\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f25fc35181a0a553a5ecba46d232e6d4\soloader-0.9.0\AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\e9c85a77bc5839ea409a0def411de8be\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\e9c85a77bc5839ea409a0def411de8be\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5e9e2300a9208546cb3430620d81f397\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5e9e2300a9208546cb3430620d81f397\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\52cd8cdc35e752167164e5643a73a3d6\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\52cd8cdc35e752167164e5643a73a3d6\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\11d5861a7a91b5ea305d48ec4a94f7c5\core-1.1.0\AndroidManifest.xml:24:5-89
@@ -376,6 +386,8 @@ MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Soc
 MERGED from [:react-native-community_datetimepicker] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-community_masked-view] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-camera] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
@@ -394,28 +406,6 @@ MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\anyap\.gradle\cach
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\49bcf482e29a0c92340fcff6cb7a7845\jetified-react-native-0.63.3\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
 MERGED from [:expo-file-system] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
-MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d310641bad418cbcd316dfc14528806d\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1af50a0e53a9887eb7a378070ce3050a\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\1af50a0e53a9887eb7a378070ce3050a\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0b2979340ab435b01729129676ec7826\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
@@ -436,6 +426,8 @@ MERGED from [:expo-keep-awake] I:\React Native\Project\Social Media november 18\
 MERGED from [:expo-keep-awake] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-linear-gradient] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-linear-gradient] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-sqlite] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
@@ -512,6 +504,34 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anyap\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7872e8b0fc76def0884b5bc5946ae78a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\73e5cda5390c5305da803bef3fc6773e\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\73e5cda5390c5305da803bef3fc6773e\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc14c1979e1fcf03de93e673c5860529\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\295eebf0b7801343d4059730f06432cb\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\610dccff03a71b38821234b2d968b3b5\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\610dccff03a71b38821234b2d968b3b5\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\8d4bd71d1c4d459b6f6e2820b9105186\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\8d4bd71d1c4d459b6f6e2820b9105186\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\944ddfbacd9607a3174faa614ddfbff1\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d16376c9d290e893c62a730c46e49c1b\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\dc18897bdfe37731f2d2d3462b991fe2\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\352d3931867426068d1e0bc145f66cff\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\98dcbcd90c1f8a847afcb25a5942be41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\52cd8cdc35e752167164e5643a73a3d6\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\52cd8cdc35e752167164e5643a73a3d6\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\3e24804f48582cbd6f4b8a5404ac7bb7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\3e24804f48582cbd6f4b8a5404ac7bb7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\fae73d58bfa314db6d625712fa36839c\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
@@ -526,10 +546,10 @@ MERGED from [androidx.media:media:1.0.0] C:\Users\anyap\.gradle\caches\transform
 MERGED from [androidx.media:media:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0d3c8b79a8d15cba91ec886187924a8f\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7c28fed34cfcce171471c3033960b5e2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\7c28fed34cfcce171471c3033960b5e2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\17f1351ba14a9e8f6d213a348e8c285e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\17f1351ba14a9e8f6d213a348e8c285e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\faaa572e0bc0059999ecd0371084d850\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\faaa572e0bc0059999ecd0371084d850\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\17f1351ba14a9e8f6d213a348e8c285e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\17f1351ba14a9e8f6d213a348e8c285e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0cded6203e7e33a53aaf4bdb6ba38181\activity-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0cded6203e7e33a53aaf4bdb6ba38181\activity-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\587edd84b06454774f753fe039f916fb\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -568,6 +588,8 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9011a7b3eb27f0c2f9a6f114e1bdbc35\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b7f3a0f0357eb42f2e6c9031f281dd34\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\b7f3a0f0357eb42f2e6c9031f281dd34\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\78cadd6a38cdfbfec2f45b5ba54540ec\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\78cadd6a38cdfbfec2f45b5ba54540ec\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\ba763b7d6213b98b8dfa5feae97797d9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\ba763b7d6213b98b8dfa5feae97797d9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\0aa674e16a95dadc3e227e68530fe519\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
@@ -658,20 +680,62 @@ ADDED from [:expo-location] I:\React Native\Project\Social Media november 18\Soc
 		ADDED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
 	android:name
 		ADDED from [:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-78
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:36:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:34:13-84
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
 	android:exported

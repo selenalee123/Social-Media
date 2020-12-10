@@ -218,45 +218,92 @@
 105-->[:expo-location] I:\React Native\Project\Social Media november 18\Social-Media\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
 106
 107        <activity
-107-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
-108            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-108-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
-109            android:exported="false"
-109-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
-110            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-110-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\9b401f78fb46ae192e1f925887683881\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
-111
-112        <meta-data
-112-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
-113            android:name="com.google.android.gms.version"
-113-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
-114            android:value="@integer/google_play_services_version" />
-114-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\5490a6418a4abf5b6effd6b35aab979b\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
-115
+107-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+108            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+108-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+109            android:excludeFromRecents="true"
+109-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+111-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
+112        <!--
+113            Service handling Google Sign-In user revocation. For apps that do not integrate with
+114            Google Sign-In, this service will never be started.
+115        -->
 116        <service
-116-->[androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
-117            android:name="androidx.room.MultiInstanceInvalidationService"
-117-->[androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
-118            android:exported="false" />
-118-->[androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
-119        <service
-119-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:19:9-21:40
-120            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
-120-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:20:13-132
-121            android:exported="false" />
-121-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:21:13-37
-122        <service
-122-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:22:9-24:40
-123            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
-123-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:23:13-127
-124            android:exported="false" />
-124-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:24:13-37
-125        <service
-125-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:25:9-27:40
-126            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
-126-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:26:13-120
-127            android:exported="false" />
-127-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:27:13-37
-128    </application>
-129
-130</manifest>
+116-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+117            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+117-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+118            android:exported="true"
+118-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+119            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+119-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+120            android:visibleToInstantApps="true" />
+120-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\01bf6bd0cbea62f2fe3aef804ffbd147\play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+121
+122        <activity
+122-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+123            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+123-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+125            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+125-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\bbfe6c6edb197b8729377da38d7f7fcd\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+126
+127        <provider
+127-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+128            android:name="com.google.firebase.provider.FirebaseInitProvider"
+128-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+129            android:authorities="com.firstappv2.firebaseinitprovider"
+129-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+130            android:directBootAware="true"
+130-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+131            android:exported="false"
+131-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+132            android:initOrder="100" />
+132-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+133
+134        <service
+134-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+135            android:name="com.google.firebase.components.ComponentDiscoveryService"
+135-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:34:13-84
+136            android:directBootAware="true"
+136-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+137            android:exported="false" />
+137-->[com.google.firebase:firebase-common:19.3.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\f1da2e4cecdc659b6e0283d387d4a935\jetified-firebase-common-19.3.1\AndroidManifest.xml:36:13-37
+138
+139        <meta-data
+139-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+140            android:name="com.google.android.gms.version"
+140-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+141            android:value="@integer/google_play_services_version" />
+141-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\133ece3f161fab6c62853dadb3dc7db5\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+142
+143        <service
+143-->[androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+144            android:name="androidx.room.MultiInstanceInvalidationService"
+144-->[androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+145            android:exported="false" />
+145-->[androidx.room:room-runtime:2.1.0] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\d5d7b616b3fb92bf7390f4832ffa952a\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+146        <service
+146-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:19:9-21:40
+147            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
+147-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:20:13-132
+148            android:exported="false" />
+148-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:21:13-37
+149        <service
+149-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:22:9-24:40
+150            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
+150-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:23:13-127
+151            android:exported="false" />
+151-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:24:13-37
+152        <service
+152-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:25:9-27:40
+153            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
+153-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:26:13-120
+154            android:exported="false" />
+154-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\anyap\.gradle\caches\transforms-2\files-2.1\a5dcae9ceacfb49031661e52a20fb7bf\jetified-library-3.2.11\AndroidManifest.xml:27:13-37
+155    </application>
+156
+157</manifest>

@@ -122,21 +122,9 @@ com/facebook/react/R.java
  com.facebook.react.R$xml
 com/google/android/gms/places_placereport/R.java
  com.google.android.gms.places_placereport.R
-com/reactcommunity/rndatetimepicker/R.java
- com.reactcommunity.rndatetimepicker.R
- com.reactcommunity.rndatetimepicker.R$anim
- com.reactcommunity.rndatetimepicker.R$attr
- com.reactcommunity.rndatetimepicker.R$bool
- com.reactcommunity.rndatetimepicker.R$color
- com.reactcommunity.rndatetimepicker.R$dimen
- com.reactcommunity.rndatetimepicker.R$drawable
- com.reactcommunity.rndatetimepicker.R$id
- com.reactcommunity.rndatetimepicker.R$integer
- com.reactcommunity.rndatetimepicker.R$layout
- com.reactcommunity.rndatetimepicker.R$string
- com.reactcommunity.rndatetimepicker.R$style
- com.reactcommunity.rndatetimepicker.R$styleable
- com.reactcommunity.rndatetimepicker.R$xml
+com/firstappv2/MainActivity.java
+ com.firstappv2.MainActivity
+ com.firstappv2.MainActivity$1
 androidx/asynclayoutinflater/R.java
  androidx.asynclayoutinflater.R
  androidx.asynclayoutinflater.R$attr
@@ -164,6 +152,18 @@ com/facebook/flipper/plugins/fresco/R.java
  com.facebook.flipper.plugins.fresco.R$string
  com.facebook.flipper.plugins.fresco.R$style
  com.facebook.flipper.plugins.fresco.R$styleable
+com/google/firebase/R.java
+ com.google.firebase.R
+ com.google.firebase.R$attr
+ com.google.firebase.R$color
+ com.google.firebase.R$dimen
+ com.google.firebase.R$drawable
+ com.google.firebase.R$id
+ com.google.firebase.R$integer
+ com.google.firebase.R$layout
+ com.google.firebase.R$string
+ com.google.firebase.R$style
+ com.google.firebase.R$styleable
 expo/modules/constants/R.java
  expo.modules.constants.R
 org/unimodules/interfaces/taskManager/R.java
@@ -214,6 +214,8 @@ androidx/media/R.java
  androidx.media.R$styleable
 org/unimodules/interfaces/barcodescanner/R.java
  org.unimodules.interfaces.barcodescanner.R
+com/google/android/gms/auth/api/phone/R.java
+ com.google.android.gms.auth.api.phone.R
 expo/modules/splashscreen/R.java
  expo.modules.splashscreen.R
  expo.modules.splashscreen.R$anim
@@ -391,6 +393,8 @@ com/facebook/flipper/plugins/network/R.java
  com.facebook.flipper.plugins.network.R$string
  com.facebook.flipper.plugins.network.R$style
  com.facebook.flipper.plugins.network.R$styleable
+com/google/firebase/components/R.java
+ com.google.firebase.components.R
 com/facebook/fresco/ui/common/R.java
  com.facebook.fresco.ui.common.R
 com/facebook/drawee/R.java
@@ -405,6 +409,21 @@ com/facebook/drawee/R.java
  com.facebook.drawee.R$string
  com.facebook.drawee.R$style
  com.facebook.drawee.R$styleable
+com/reactcommunity/rndatetimepicker/R.java
+ com.reactcommunity.rndatetimepicker.R
+ com.reactcommunity.rndatetimepicker.R$anim
+ com.reactcommunity.rndatetimepicker.R$attr
+ com.reactcommunity.rndatetimepicker.R$bool
+ com.reactcommunity.rndatetimepicker.R$color
+ com.reactcommunity.rndatetimepicker.R$dimen
+ com.reactcommunity.rndatetimepicker.R$drawable
+ com.reactcommunity.rndatetimepicker.R$id
+ com.reactcommunity.rndatetimepicker.R$integer
+ com.reactcommunity.rndatetimepicker.R$layout
+ com.reactcommunity.rndatetimepicker.R$string
+ com.reactcommunity.rndatetimepicker.R$style
+ com.reactcommunity.rndatetimepicker.R$styleable
+ com.reactcommunity.rndatetimepicker.R$xml
 androidx/sqlite/db/R.java
  androidx.sqlite.db.R
 androidx/localbroadcastmanager/R.java
@@ -498,6 +517,21 @@ com/facebook/imagepipelinebase/R.java
  com.facebook.imagepipelinebase.R$string
  com.facebook.imagepipelinebase.R$style
  com.facebook.imagepipelinebase.R$styleable
+io/invertase/firebase/R.java
+ io.invertase.firebase.R
+ io.invertase.firebase.R$anim
+ io.invertase.firebase.R$attr
+ io.invertase.firebase.R$bool
+ io.invertase.firebase.R$color
+ io.invertase.firebase.R$dimen
+ io.invertase.firebase.R$drawable
+ io.invertase.firebase.R$id
+ io.invertase.firebase.R$integer
+ io.invertase.firebase.R$layout
+ io.invertase.firebase.R$string
+ io.invertase.firebase.R$style
+ io.invertase.firebase.R$styleable
+ io.invertase.firebase.R$xml
 org/unimodules/interfaces/font/R.java
  org.unimodules.interfaces.font.R
 com/facebook/fresco/stetho/R.java
@@ -571,6 +605,8 @@ org/reactnative/camera/R.java
  org.reactnative.camera.R$style
  org.reactnative.camera.R$styleable
  org.reactnative.camera.R$xml
+com/google/android/gms/auth/R.java
+ com.google.android.gms.auth.R
 androidx/activity/R.java
  androidx.activity.R
  androidx.activity.R$attr
@@ -757,6 +793,19 @@ io/nlopez/smartlocation/R.java
  io.nlopez.smartlocation.R$integer
  io.nlopez.smartlocation.R$string
  io.nlopez.smartlocation.R$styleable
+com/google/android/gms/auth/api/R.java
+ com.google.android.gms.auth.api.R
+ com.google.android.gms.auth.api.R$anim
+ com.google.android.gms.auth.api.R$attr
+ com.google.android.gms.auth.api.R$color
+ com.google.android.gms.auth.api.R$dimen
+ com.google.android.gms.auth.api.R$drawable
+ com.google.android.gms.auth.api.R$id
+ com.google.android.gms.auth.api.R$integer
+ com.google.android.gms.auth.api.R$layout
+ com.google.android.gms.auth.api.R$string
+ com.google.android.gms.auth.api.R$style
+ com.google.android.gms.auth.api.R$styleable
 expo/modules/keepawake/R.java
  expo.modules.keepawake.R
 com/swmansion/reanimated/R.java
@@ -828,21 +877,8 @@ expo/modules/location/R.java
  expo.modules.location.R$string
  expo.modules.location.R$style
  expo.modules.location.R$styleable
-expo/modules/updates/R.java
- expo.modules.updates.R
- expo.modules.updates.R$anim
- expo.modules.updates.R$attr
- expo.modules.updates.R$bool
- expo.modules.updates.R$color
- expo.modules.updates.R$dimen
- expo.modules.updates.R$drawable
- expo.modules.updates.R$id
- expo.modules.updates.R$integer
- expo.modules.updates.R$layout
- expo.modules.updates.R$string
- expo.modules.updates.R$style
- expo.modules.updates.R$styleable
- expo.modules.updates.R$xml
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
 com/BV/LinearGradient/R.java
  com.BV.LinearGradient.R
 org/webkit/androidjsc/R.java
@@ -902,8 +938,9 @@ com/firstappv2/BuildConfig.java
  com.firstappv2.BuildConfig
 com/google/android/gms/location/R.java
  com.google.android.gms.location.R
-com/google/android/gms/clearcut/R.java
- com.google.android.gms.clearcut.R
+com/firstappv2/MainApplication.java
+ com.firstappv2.MainApplication
+ com.firstappv2.MainApplication$1
 com/google/android/gms/tasks/R.java
  com.google.android.gms.tasks.R
 org/unimodules/interfaces/facedetector/R.java
@@ -922,11 +959,20 @@ androidx/room/R.java
  androidx.room.R$styleable
 com/google/android/gms/vision/R.java
  com.google.android.gms.vision.R
-com/firstappv2/MainApplication.java
- com.firstappv2.MainApplication
- com.firstappv2.MainApplication$1
-com/firstappv2/MainActivity.java
- com.firstappv2.MainActivity
- com.firstappv2.MainActivity$1
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
+expo/modules/updates/R.java
+ expo.modules.updates.R
+ expo.modules.updates.R$anim
+ expo.modules.updates.R$attr
+ expo.modules.updates.R$bool
+ expo.modules.updates.R$color
+ expo.modules.updates.R$dimen
+ expo.modules.updates.R$drawable
+ expo.modules.updates.R$id
+ expo.modules.updates.R$integer
+ expo.modules.updates.R$layout
+ expo.modules.updates.R$string
+ expo.modules.updates.R$style
+ expo.modules.updates.R$styleable
+ expo.modules.updates.R$xml
+com/google/android/gms/clearcut/R.java
+ com.google.android.gms.clearcut.R

@@ -73,7 +73,7 @@ export default class Test extends Component {
               }} />
           
          
-            <View>
+            
             <FontAwesome
               name="camera"
               color="gray"
@@ -86,6 +86,7 @@ export default class Test extends Component {
               color="gray"
               size={20}
               />
+              <View>
             </View>
           </View>
         </View>
