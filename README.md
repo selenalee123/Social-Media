@@ -3,6 +3,8 @@ Profile screen that provides basic information about user
 2. Album
 3. Description
 
-
+![](assets/imgs/profilescreen.PNG)
+![](assets/imgs/Registerimage.PNG)
+![](assets/imgs/ArticlesScreen.PNG)
 ![](assets/imgs/Booksearch.PNG)
 
